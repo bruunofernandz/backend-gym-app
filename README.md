@@ -1,4 +1,4 @@
-# App
+# Gym app backend
 
 GymPass style app.
 
